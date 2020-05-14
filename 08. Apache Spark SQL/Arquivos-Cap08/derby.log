@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 28 04:20:18 BRT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0171-bfa8-6cce-000010356268 
+on database directory /Users/uchidate/Github/DSA-Curso_Big-Data-Real-Time-Analytics-com-Python-e-Spark/Capítulo 08. Apache Spark SQL/Arquivos-Cap08/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@11f257fd 
+Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=1.8.0_222-b10
+user.dir=/Users/uchidate/Github/DSA-Curso_Big-Data-Real-Time-Analytics-com-Python-e-Spark/Capítulo 08. Apache Spark SQL/Arquivos-Cap08
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
